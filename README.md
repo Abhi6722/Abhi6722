@@ -63,16 +63,3 @@ Recently I have started A Youtube Channel & Discord channel in which will try to
 <a href="mailto:mesouravofficial@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=SauravMukherjee44&show_icons=true&theme=dark&locale=en" alt="SauravMukherjee" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SauravMukherjee44&show_icons=true&theme=dark&locale=en&layout=compact" alt="SauravMukherjee" /></td>
-  </tr>
-</table>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravMukherjee44&theme=dark" alt="SauravMukherjee" /></p>
-  </div>
-
- [![SauravMukherjee44's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SauravMukherjee44&theme=xcode)](https://git.io/SauravMukherjee44)
