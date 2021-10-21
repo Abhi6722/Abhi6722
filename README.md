@@ -43,8 +43,8 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://abhi6722.in)     | IPortfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [College Library Website](https://sauravmukherjee44.github.io/Aec-Library-Website/)   | This is a College Library Website in which you can keep a record of all the books you have    | issued.© 2021 Saurav Mukherjee 
-| [Machine Learning Prediction Model](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1/blob/main/Sparks%20Foundation%20Task%20-1%20.ipynb)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
+| [Covid Resources](https://github.com/Abhi6722/covid_resources)   | This is a Covid Resources app which goals to provide all essentail resources and services regarding COVID-19 at a single place    | issued.© 2021 Abhinav Kumar 
+| [Machine Learning Prediction Model](https://github.com/Abhi6722/Predictor)     | The main function of the app is to recommend movies based on our interest. This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, reviews, recommended movies, etc. |
 | [E-Mail Classification Model](https://github.com/SauravMukherjee44/Email-Classification-Model)     | Classify emails as spam or not-spam on the basis of the message.
 | [Netflix-Clone-PC-App](https://netflix-clone-saurav.herokuapp.com/)     | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
 | [Netflix-Clone-Mobile-App](https://netflix-clone-9b94a.web.app/)     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript.
