@@ -45,7 +45,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | [My Portfolio Website](https://abhi6722.in)     | IPortfolio website build using HTML5, CSS3, JavaScript and jQuery. 
 | [Covid Resources](https://github.com/Abhi6722/covid_resources)   | This is a Covid Resources app which goals to provide all essentail resources and services regarding COVID-19 at a single place    | issued.© 2021 Abhinav Kumar 
 | [Machine Learning Prediction Model](https://github.com/Abhi6722/Predictor)     | The main function of the app is to recommend movies based on our interest. This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, reviews, recommended movies, etc. |
-| [E-Mail Classification Model](https://github.com/SauravMukherjee44/Email-Classification-Model)     | Classify emails as spam or not-spam on the basis of the message.
+| [Toodle](https://github.com/Abhi6722/toodle)     | A Google clone built using NextJs and Tailwind CSS.
 | [Netflix-Clone-PC-App](https://netflix-clone-saurav.herokuapp.com/)     | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
 | [Netflix-Clone-Mobile-App](https://netflix-clone-9b94a.web.app/)     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript.
 | [Payment Gateway Integration](https://sauravmukherjee44.github.io/Payment-Gateway-Integration/)     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used.
