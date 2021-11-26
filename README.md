@@ -5,7 +5,7 @@ A bit about Myself, I am <b>Abhinav Kumar</b> pursuing a <b>Computer Science Deg
 
 <h3 align="center">A Passionate Web And App Developer | Data Scientist | Machine learning enthusiast </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="Abhinav Kumar" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhi6722&label=Profile%20views&color=6805D3&style=flat" alt="Abhinav Kumar" /> </p></h3>
    <div align="center">
 
    <h1>Technical Skills 🛠</h1>
