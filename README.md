@@ -1,7 +1,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/Abhi6722" target="_blank"> Abhinav Kumar </a></h1>
 <img width="30%" align="right"   src="https://github.com/Abhi6722/Abhi6722/blob/main/workbench.svg" >
 
-A bit about Myself, I am <b>Abhinav Kumar</b> pursuing a <b>Computer Science Degree</b> from Birla Institue of Technology Mesra. As of now, I am focused on <b>web development, Game Development, Data Science and Machine Learning </b> but still, wish to explore many fields.⚡
+A bit about Myself, I am <b>Abhinav Kumar</b> pursuing a <b>Computer Science Degree</b> from Birla Institue of Technology Mesra. As of now, I am focused on <b>web development, Flutter Development</b>, and literally any random stuff that I find interesting.⚡
 
 <h3 align="center">A Passionate Web And App Developer | Blogger | Machine learning enthusiast </h3>
 
